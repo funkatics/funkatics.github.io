@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/style/main.scss"],"names":[],"mappings":"AAAA,gBACE,iDAAoD,CACpD,aAAc","file":"main.e8a3729b.chunk.css","sourcesContent":[".Funkatics-Font {\n  font-family: 'Londrina Solid', sans-serif !important;\n  color: #1544a9;\n}\n"]}
